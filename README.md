@@ -4,7 +4,7 @@ This notebook using python for deep learning and data science in attempt to pred
 
 ## Problem
 
-Given a data about house price (independent variables) and We guess the house price.
+Given a data about house price (dependent variable) and other features (independent variables) and We guess the house price.
 
 ## About the Data
 
